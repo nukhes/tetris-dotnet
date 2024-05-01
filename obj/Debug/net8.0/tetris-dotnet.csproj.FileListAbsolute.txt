@@ -1,0 +1,14 @@
+/home/nukhes/Git/tetris-dotnet/bin/Debug/net8.0/tetris-dotnet
+/home/nukhes/Git/tetris-dotnet/bin/Debug/net8.0/tetris-dotnet.deps.json
+/home/nukhes/Git/tetris-dotnet/bin/Debug/net8.0/tetris-dotnet.runtimeconfig.json
+/home/nukhes/Git/tetris-dotnet/bin/Debug/net8.0/tetris-dotnet.dll
+/home/nukhes/Git/tetris-dotnet/bin/Debug/net8.0/tetris-dotnet.pdb
+/home/nukhes/Git/tetris-dotnet/obj/Debug/net8.0/tetris-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/home/nukhes/Git/tetris-dotnet/obj/Debug/net8.0/tetris-dotnet.AssemblyInfoInputs.cache
+/home/nukhes/Git/tetris-dotnet/obj/Debug/net8.0/tetris-dotnet.AssemblyInfo.cs
+/home/nukhes/Git/tetris-dotnet/obj/Debug/net8.0/tetris-dotnet.csproj.CoreCompileInputs.cache
+/home/nukhes/Git/tetris-dotnet/obj/Debug/net8.0/tetris-dotnet.dll
+/home/nukhes/Git/tetris-dotnet/obj/Debug/net8.0/refint/tetris-dotnet.dll
+/home/nukhes/Git/tetris-dotnet/obj/Debug/net8.0/tetris-dotnet.pdb
+/home/nukhes/Git/tetris-dotnet/obj/Debug/net8.0/tetris-dotnet.genruntimeconfig.cache
+/home/nukhes/Git/tetris-dotnet/obj/Debug/net8.0/ref/tetris-dotnet.dll
